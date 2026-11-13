@@ -2,5 +2,5 @@ url: https://github.com/philomelcc/dsh-ui-design
 name: philomelcc/dsh-ui-design
 category: ui
 description:
-  en: 'UI design knowledge base: 99 filterable design cards with live demos, implementation prompts and per-design usage notes, plus an agent tool that finds and applies them.'
-  zh: 'UI 设计知识库：99 项可筛选设计，带可交互 demo、实现提示词和适用/不适用场景，配套 agent 工具按场景检索并应用。'
+  en: 'UI design knowledge base: 170 reusable designs with live demos, implementation prompts and usage notes, a search tool for agents, and a shared design language between humans and AI.'
+  zh: 'UI 设计知识库：170 项可复用设计，带可交互 demo、实现提示词和适用/不适用场景，配套检索工具，让人和 AI 用同一套设计语言沟通。'
